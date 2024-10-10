@@ -1,0 +1,1 @@
+//DATEDIFF(w1.recordDate, w2.recordDate) or DATEDIFF(date value 1, date value 2)  gives us date diffrence value between 2 dates 
