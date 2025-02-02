@@ -10,4 +10,4 @@ CHAR_LENGTH(content)
 
 if we are trying to acess something not present in a table then null is returned by default
 
-Group by is a must along with aggregate functions
+Group by is a must along with aggregate functions and written at end of our query.
