@@ -6,3 +6,6 @@ select name from Customer where referee_id !=2 OR referee_id IS NULL;
 CHAR_LENGTH(content)
 
 --for knowing no of characters in each entry of content
+
+
+if we are trying to acess something not present in a table then null is returned by default
