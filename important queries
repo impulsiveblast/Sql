@@ -1,0 +1,8 @@
+
+select name from Customer where referee_id !=2 OR referee_id IS NULL;
+
+--for int column to be compared to null then is null or is not null is used
+
+CHAR_LENGTH(content)
+
+--for knowing no of characters in each entry of content
