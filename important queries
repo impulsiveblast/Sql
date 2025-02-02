@@ -11,3 +11,6 @@ CHAR_LENGTH(content)
 if we are trying to acess something not present in a table then null is returned by default
 
 Group by is a must along with aggregate functions and written at end of our query.
+
+
+diffrence between 2 dates d1,d2(in formats dd-mm-yyyy or any other format) is calculated as  datediff(d1,d2)
