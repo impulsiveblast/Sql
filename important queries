@@ -14,3 +14,7 @@ Group by is a must along with aggregate functions and written at end of our quer
 
 
 diffrence between 2 dates d1,d2(in formats dd-mm-yyyy or any other format) is calculated as  datediff(d1,d2)
+
+
+for groupping multiple columns c1,c2,c3: group by c1,c2,c3
+for groupping a single column c1:  group by c1
