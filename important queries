@@ -18,3 +18,8 @@ diffrence between 2 dates d1,d2(in formats dd-mm-yyyy or any other format) is ca
 
 for groupping multiple columns c1,c2,c3: group by c1,c2,c3
 for groupping a single column c1:  group by c1
+
+for ordering by multiple columns c1,c2,c3: order by c1,c2,c3
+for ordering a single column c1:  order by c1
+
+
