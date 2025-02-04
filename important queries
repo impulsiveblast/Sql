@@ -22,4 +22,5 @@ for groupping a single column c1:  group by c1
 for ordering by multiple columns c1,c2,c3: order by c1,c2,c3
 for ordering a single column c1:  order by c1
 
+round(avg(column_name),digits to be rounded off)
 
